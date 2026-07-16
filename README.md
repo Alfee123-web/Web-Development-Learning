@@ -2,13 +2,18 @@
 
 A hands-on journal of my journey through full-stack web development — built one project, one bug, and one "aha" moment at a time.
 
-I'm a B.Tech CSE student (BBDNITM Lucknow, Class of 2027) learning the MERN stack and backend fundamentals through real, working projects rather than just tutorials. This repo is where that practice lives.
+I'm a B.Tech CSE student (BBDNIIT Lucknow, Class of 2027) learning the MERN stack and backend fundamentals through real, working projects rather than just tutorials. This repo is where that practice lives.
 
 ---
 
 ## 🚀 What's Inside
 
-This is a learning repository, so it's organized by topic/module as I work through each concept — from basic JavaScript to full backend systems with databases and templating engines.
+This is a learning repository, so it's organized by topic/module as I work through each concept — from basic JavaScript to full backend systems and modern frontend frameworks.
+
+### ⚛️ REACT
+Transitioning into dynamic, component-driven UI development using modern **React.js**.
+- **basic-react-app** — Understanding JSX, components, props, rendering logic, and structural foundation.
+- **react-states** — Deep dive into hooks (`useState`), state management, handling events, and making components interactive.
 
 ### 🔧 Middleware
 Deep dive into **Express.js middleware** — the request-response pipeline that powers real-world backend apps.
@@ -32,6 +37,7 @@ A more advanced **MongoDB + Express + EJS** project — moving from simple CRUD 
 
 | Layer | Tools |
 |---|---|
+| Frontend | React.js, HTML5, CSS3, JavaScript (ES6+) |
 | Backend | Node.js, Express.js |
 | Database | MongoDB, Mongoose |
 | Templating | EJS |
@@ -59,3 +65,5 @@ Check out my other projects and portfolio work on my [GitHub profile](https://gi
 *This repo is a work in progress — new modules get added as I learn new concepts. Feedback and suggestions are always welcome!*
 <!-- testing yolo achievement -->
 <!-- update 2 -->
+
+
